@@ -1,8 +1,8 @@
-- 👋 Hi, I'm @silverat
-- 👀 I'm interested in Data Science 
-- 🌱 I'm currently learning  Big data real-time with python and sparks
-- 💞️ I'm looking to collaborate on others githubs, beginner and intermediate and any kind of data researchs in brazil, 
-- 📫 How to reach me [eng.rod.sil@gmail.com](mailto:eng.rod.sil@gmail.com)
+👋 Hi, I'm Rodrigo (@silverat) – a Data Engineer and BI Developer from Brazil.
+👀 I'm interested in Data Science, Data Engineering, and real-time analytics.
+🌱 I'm currently working with Big Data real-time processing using Python, Spark, and modern data platforms.
+💞️ I'm open to collaborating on beginner and intermediate GitHub projects, especially data-focused projects and research in Brazil.
+📫 How to reach me: eng.rod.sil@gmail.com
 
 <!---
 silverat/silverat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
